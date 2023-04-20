@@ -18,6 +18,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Chicken_Intro.unity
     guid: 4c66a9f65c73932419ed398d9bf47083
   - enabled: 1
+    path: Assets/Scenes/Chicken_Play.unity
+    guid: 9cf87677bcbf581449a7c29892cc9286
+  - enabled: 1
+    path: Assets/Scenes/Chicken_Quiz.unity
+    guid: 83cb6a470282eb34cb4f706263288b75
+  - enabled: 1
     path: Assets/Scenes/Cow_Intro.unity
     guid: 20e979ae759c0194d83979cb6c2686d2
   - enabled: 1
