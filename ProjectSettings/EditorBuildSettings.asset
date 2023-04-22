@@ -36,6 +36,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Duck_Intro.unity
     guid: 574d90fc67ceee84a8f5421d87cc10fd
   - enabled: 1
+    path: Assets/Scenes/Duck_Play.unity
+    guid: cfbb1d7ec55e9cc44b15a04ca84d0c1c
+  - enabled: 1
+    path: Assets/Scenes/Duck_Quiz.unity
+    guid: 17e9f6d88ea087d4eadd4ff2950939fd
+  - enabled: 1
     path: Assets/Scenes/Pig_Intro.unity
     guid: eebba37b3ad27d548b7613deb5b73442
   - enabled: 1
