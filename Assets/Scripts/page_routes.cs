@@ -44,6 +44,16 @@ public class page_routes : MonoBehaviour{
         SceneManager.LoadScene("Cow_Intro");
     }
 
+    // Cow Play Route
+    public void Cow_Play(string Cow_Play) {
+        SceneManager.LoadScene("Cow_Play");
+    }
+
+    // Cow Quiz Route
+    public void Cow_Quiz(string Cow_Quiz) {
+        SceneManager.LoadScene("Cow_Quiz");
+    }
+
     // Duck Intro Route
     public void Duck_Intro(string Duck_Intro) {
         SceneManager.LoadScene("Duck_Intro");
