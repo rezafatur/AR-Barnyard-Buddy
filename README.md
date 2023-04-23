@@ -31,7 +31,7 @@ Figma : [Wireframes + Mockup](https://www.figma.com/file/TAQwvDCydVR2ErZxGxT96N/
 
 ## Demo
 
-Coming Soon!
+v1.0 : [Download](https://drive.google.com/file/d/1xOnAWM-wA6wiQ5_9Y4kgJ3uXvqFOoinT/view?usp=share_link)
 
 ## System Requirements
 
