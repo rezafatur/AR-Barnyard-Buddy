@@ -53,6 +53,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Sheep_Intro.unity
     guid: f059805256da74145979d5c201cebf5c
+  - enabled: 1
+    path: Assets/Scenes/Sheep_Play.unity
+    guid: eea1d7f2b9b09944e8cfae21fd28945e
+  - enabled: 1
+    path: Assets/Scenes/Sheep_Quiz.unity
+    guid: 0f212b02f5271d9458089cc421195621
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: c2630ea7ed8eee64c8ce6704632dac0a, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 76f49aa1819ac804fa7d1fa85ad8c646, type: 2}

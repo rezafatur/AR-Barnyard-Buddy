@@ -88,4 +88,14 @@ public class page_routes : MonoBehaviour{
     public void Sheep_Intro(string Sheep_Intro) {
         SceneManager.LoadScene("Sheep_Intro");
     }
+
+    // Sheep Play Route
+    public void Sheep_Play(string Sheep_Play) {
+        SceneManager.LoadScene("Sheep_Play");
+    }
+
+    // Sheep Quiz Route
+    public void Sheep_Quiz(string Sheep_Quiz) {
+        SceneManager.LoadScene("Sheep_Quiz");
+    }
 }
