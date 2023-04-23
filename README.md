@@ -5,11 +5,12 @@ AR Barnyard Buddy adalah aplikasi Android dengan dukungan ARCore dan Unity yang 
 ## 3D Model Hewan
 
 Nantinya, akan terdapat 5 hewan yang tersedia dan secara umum diternak yaitu sebagai berikut:
- - Ayam
- - Babi
- - Bebek
- - Domba
- - Sapi
+
+- Ayam
+- Babi
+- Bebek
+- Domba
+- Sapi
 
 Sumber 3D Model : [Farm Animals Set](https://assetstore.unity.com/packages/3d/farm-animals-set-97945)
 
@@ -22,6 +23,7 @@ Sumber 3D Model : [Farm Animals Set](https://assetstore.unity.com/packages/3d/fa
 - Menambahkan Scene Duck Intro, Duck Play, dan Duck Quiz.
 - Menambahkan Scene Pig Intro, Pig Play, dan Pig Quiz.
 - Menambahkan Scene Sheep Intro, Sheep Play, dan Sheep Quiz.
+- Mengubah Icon atau Logo dan Versi Aplikasi
 
 ## Mockup
 
