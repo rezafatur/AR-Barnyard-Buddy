@@ -22,7 +22,6 @@ Sumber 3D Model : [Farm Animals Set](https://assetstore.unity.com/packages/3d/fa
 - Menambahkan Scene Duck Intro, Duck Play, dan Duck Quiz.
 - Menambahkan Scene Pig Intro, Pig Play, dan Pig Quiz.
 - Menambahkan Scene Sheep Intro, Sheep Play, dan Sheep Quiz.
-- Mengubah Icon atau Logo Aplikasi
 
 ## Mockup
 
