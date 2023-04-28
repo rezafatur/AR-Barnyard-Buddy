@@ -40,4 +40,4 @@ v1.0 : [Download](https://drive.google.com/file/d/1xOnAWM-wA6wiQ5_9Y4kgJ3uXvqFOo
 
 ## Documentation
 
-YouTube : Coming Soon!
+YouTube : [Klik Disini](https://youtu.be/B2v3hKRhJEM)
