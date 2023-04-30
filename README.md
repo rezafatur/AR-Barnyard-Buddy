@@ -14,16 +14,16 @@ Nantinya, akan terdapat 5 hewan yang tersedia dan secara umum diternak yaitu seb
 
 Sumber 3D Model : [Farm Animals Set](https://assetstore.unity.com/packages/3d/farm-animals-set-97945)
 
-## Roadmap
+## Rencana Pengembangan
 
-- Proyek Awal
-- Menambahkan Scene Home, Menu, dan Information.
-- Menambahkan Scene Chicken Intro, Chicken Play, dan Chicken Quiz.
-- Menambahkan Scene Cow Intro, Cow Play, dan Cow Quiz.
-- Menambahkan Scene Duck Intro, Duck Play, dan Duck Quiz.
-- Menambahkan Scene Pig Intro, Pig Play, dan Pig Quiz.
-- Menambahkan Scene Sheep Intro, Sheep Play, dan Sheep Quiz.
-- Mengubah Icon atau Logo dan Versi Aplikasi
+- Proyek Awal. ✅
+- Menambahkan Scene Home, Menu, dan Information. ✅
+- Menambahkan Scene Chicken Intro, Chicken Play, dan Chicken Quiz. ✅
+- Menambahkan Scene Cow Intro, Cow Play, dan Cow Quiz. ✅
+- Menambahkan Scene Duck Intro, Duck Play, dan Duck Quiz. ✅
+- Menambahkan Scene Pig Intro, Pig Play, dan Pig Quiz. ✅
+- Menambahkan Scene Sheep Intro, Sheep Play, dan Sheep Quiz. ✅
+- Mengubah Icon atau Logo dan Versi Aplikasi. ✅
 
 ## Mockup
 
@@ -33,11 +33,11 @@ Figma : [Wireframes + Mockup](https://www.figma.com/file/TAQwvDCydVR2ErZxGxT96N/
 
 v1.0 : [Download](https://drive.google.com/file/d/1xOnAWM-wA6wiQ5_9Y4kgJ3uXvqFOoinT/view?usp=share_link)
 
-## System Requirements
+## Persyaratan Sistem
 
 - Minimal Android 8 "Oreo".
 - Pastikan SmartPhone Anda dapat menjalankan atau kompatibel dengan syarat terdapat "Google Play Services for AR" di Play Store Anda.
 
-## Documentation
+## Dokumentasi
 
 YouTube : [Klik Disini](https://youtu.be/B2v3hKRhJEM)
