@@ -1,5 +1,6 @@
 # AR Barnyard Buddy
 
+![Thumbnail AR Barnyard Buddy](./Thumbnail_AR_Barnyard_Buddy.png)
 AR Barnyard Buddy adalah aplikasi Android dengan dukungan ARCore dan Unity yang memungkinkan pengguna untuk dapat belajar mengenai hewan apa saja yang terdapat di dalam peternakan.
 
 ## 3D Model Hewan
