@@ -30,7 +30,7 @@ Sumber 3D Model : [Farm Animals Set](https://assetstore.unity.com/packages/3d/fa
 
 Figma : [Wireframes + Mockup](https://www.figma.com/file/TAQwvDCydVR2ErZxGxT96N/Wireframe-%26-Mockup-AR-Barnyard-Buddy-UTS?node-id=1%3A8&t=dmHPltwQyLqECHsy-1)
 
-## Demo
+## Aplikasi
 
 v1.0 : [Download](https://drive.google.com/file/d/1xOnAWM-wA6wiQ5_9Y4kgJ3uXvqFOoinT/view?usp=share_link)
 
@@ -39,6 +39,6 @@ v1.0 : [Download](https://drive.google.com/file/d/1xOnAWM-wA6wiQ5_9Y4kgJ3uXvqFOo
 - Minimal Android 8 "Oreo".
 - Pastikan SmartPhone Anda dapat menjalankan atau kompatibel dengan syarat terdapat "Google Play Services for AR" di Play Store Anda.
 
-## Dokumentasi
+## Dokumentasi / Demo
 
 YouTube : [Klik Disini](https://youtu.be/B2v3hKRhJEM)
